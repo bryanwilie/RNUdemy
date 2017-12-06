@@ -1,0 +1,13 @@
+React
+
+Producing content on the screen
+and getting notification when users doing something (watching user events)
+
+Redux
+
+Keeping track of state of apps and deciding how to interpret or handle the events that are coming to the app
+
+
+
+npm
+get some modules

@@ -1,0 +1,5 @@
+cmd
+npm install --save-dev eslint-config-rallycoding
+react-native run-android
+npm install --save redux react-redux
+npm install --save firebase
